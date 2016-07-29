@@ -27,11 +27,13 @@ section {
 
 .card {
   width: 250px;
+  height: 320px;
   border: solid black 1px;
   padding: 10px 15px;
   margin-right: 20px;
   margin-bottom: 20px;
   float: left;
+  overflow: hidden;
 }
 
 .card img {
